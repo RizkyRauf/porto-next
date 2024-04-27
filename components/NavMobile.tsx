@@ -8,7 +8,6 @@ interface Props {
     closeNav:()=>void
 }
 
-
 const NavMobile = ({ closeNav, showNav }:Props) => {
     const navOpenStyle = showNav ? "translate-x-0" : "translate-x-[-100%]";
 

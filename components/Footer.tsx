@@ -35,7 +35,7 @@ const Footer = () => {
                     <div className="flex items-center mt-[1rem] space-x-2">
                         <EnvelopeIcon className="w-[1rem] h-[1rem] text-blue-300"/>
                         <p className="text-[17px] font-normal text-white opacity-80">
-                            <a href="mailto:raufmoveon@gmail" target="_blank">raufmoveon@gmail</a>
+                            <a href="mailto:raufmoveon@gmail" target="_blank">raufmoveon@gmail.com</a>
                         </p>
                     </div>
                     <div className="flex items-center mt-[1rem] space-x-2">
